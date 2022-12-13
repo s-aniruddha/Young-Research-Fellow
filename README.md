@@ -4,4 +4,4 @@ I was selected for the inaugural [IITM Young Research Fellow program, 2020](http
 
 I designed error control coding schemes that achieve high data rates and make bits/qubits robust to noise in queue-channel systems with waiting time dependent errors by adapting the convolutional encoder and the BCJR decoder to suit this channel. I used Python and Mathematica to perform simulations of the channel, to implement my encoder and decoder from scratch and to validate the performance of the scheme in terms of bit error rates.
 
-The Poster.jpeg file is an academic poster I made and presented in the YRF poster event to summarize my work.
+The [Poster.jpeg](Poster.jpeg) file is an academic poster I made and presented in the YRF poster event to summarize my work.
